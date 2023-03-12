@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;900&display=swap');
+
+body{
+    background-image: url(img/how-boats-are-built-for-research-arksen-1920x1080.png);
+    background-size: cover;
+}
+
+.content{
+    background-color:#51C8BC;
+    width: 60vw;
+    height:75vh;
+    border-radius: 26px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 13vh;
+} 
+
+.form{
+    background-color:#FFFFFF;
+    width: 63%;
+    height:100%;
+    position: absolute;
+    top:0px;
+    right:0px;
+    border-radius: 26px;
+}
+
+.name{
+    border-bottom: 1px solid #BEBCBC;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    height: 40px;
+    letter-spacing:0.08em;
+    width:70%;
+    margin-top: 31px;
+}
+
+.create{
+    font-size:34px;
+    font-family: 'Roboto', sans-serif;
+    margin-top:22px ;
+}
+
+.email{
+    border-bottom: 1px solid #BEBCBC;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    height: 40px;
+    letter-spacing:0.08em;
+    width:70%;
+    margin-top:22px ;
+}
+
+.password{
+    border-bottom: 1px solid #BEBCBC;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    height: 40px;
+    letter-spacing:0.08em;
+    width:70%;
+    margin-top:22px ;
+}
+
+.confirm-password{
+    border-bottom: 1px solid #BEBCBC;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    height: 40px;
+    letter-spacing:0.08em;
+    width:70%;
+    margin-top:22px ;
+}
+
+.flag{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    height: 40px;
+    letter-spacing:0.08em;
+    width:80%;
+    color:#BEBCBC;
+    margin-top:23px ;
+}
+
+.second-form{
+    margin-top: 40px;
+    margin-left: 130px;
+}
+
+.label{
+    width: 20vw;
+    font-size: 14px;
+}
+
+.line{
+    margin-top: 20px;
+}
+
+.line div{
+    display: inline-block;
+}
+
+.checkbox-wrapper{
+    padding:5px;
+}
+
+.checkbox-wrapper input{
+    position: relative;
+    bottom:7px;
+    width:15px;
+    height:15px;
+}
+
+.submit{
+    background: #3BADCD !important;
+    width: 70%;
+    height: 5vh;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family:  'Roboto', sans-serif;
+    margin-top:15px;
+}
+
+.sign-with div{
+    display: inline-block;
+}
+
+.sign-with{
+    width: 55px;
+    margin-left:140px;
+    margin-top: 30px;
+}
+
+.foot h2{
+    margin-left:70px;
+    margin-top: 10px;
+    font-family:  'Roboto', sans-serif;
+}
+
+#lang{
+    position: absolute;
+    right: 26px;
+    top:17px;
+    font-family:  'Roboto', sans-serif;
+}
+
+.vr{
+    position: absolute;
+    z-index: 2;
+    width:600px;
+    left:-120px;
+    bottom:-50px;
+}
+
+.vr-content{
+    color: #FFFFFF;
+    font-size:35px;
+    font-family:  'Roboto', sans-serif;
+    width:270px;
+    text-align: center;
+    margin-left: 40px;
+    padding-top: 100px;
+}
+
+.logo{
+    position: absolute;
+    top:20px;
+    left:20px;
+}
